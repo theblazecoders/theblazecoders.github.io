@@ -1,0 +1,63 @@
+{
+  "main": {
+    "name":"ATL PONDA",
+    "image":"",
+    "bio":"Bio",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smart Car Parking",
+        "category":"Smartest Car Parking On Earth",
+        "image":"smartcar.png",
+        "url":"https://atlponda.github.io/smart-car-parking"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Some thing about us!",
+        "user":"Author"
+      }
+    ]
+  }
+}
