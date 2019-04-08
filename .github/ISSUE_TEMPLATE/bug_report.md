@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[descriptive title]"
+title: "Bug: [description]"
 labels: bug
 assignees: ''
 
@@ -32,6 +32,9 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+ 
+ **Code Snippets**
+ If possible, give us a permalink or a normal link to suspected code snippet(s)
 
 **Additional context**
 Add any other context about the problem here.
