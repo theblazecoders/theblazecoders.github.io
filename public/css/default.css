@@ -169,6 +169,10 @@ h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
 h5 { font-size: 18px; line-height: 30px; }
 h6 { font-size: 14px; line-height: 30px; }
+<<<<<<< HEAD
+=======
+.subheader { }
+>>>>>>> origin/main
 
 p { margin: 0 0 30px 0; }
 p img { margin: 0; }
@@ -312,6 +316,11 @@ ol ol, ol ul { margin: 6px 0 6px 30px; }
 ul ul li, ul ol li,
 ol ol li, ol ul li { margin-bottom: 6px; }
 li { line-height: 18px; margin-bottom: 12px; }
+<<<<<<< HEAD
+=======
+ul.large li { }
+li p { }
+>>>>>>> origin/main
 
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
@@ -441,6 +450,10 @@ dd { margin: 0 0 0 20px; }
    background-color: #E6E8EB;
 	color: #A9ADB2;
 }
+<<<<<<< HEAD
+=======
+.pagination .prev, .pagination .next {}
+>>>>>>> origin/main
 
 /*  5. Images  --------------------------------------------------------- */
 
@@ -535,6 +548,10 @@ select {
    margin: 0 0 24px 0;
    border: 0;
    outline: none;
+<<<<<<< HEAD
+=======
+   vertical-align: middle;
+>>>>>>> origin/main
    min-width: 225px;
 	max-width: 100%;
    font-size: 15px;

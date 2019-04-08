@@ -8,7 +8,6 @@ import About from './Components/About';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
-
 class App extends Component {
 
   constructor(props){
