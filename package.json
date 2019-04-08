@@ -1,24 +1,29 @@
 {
   "name": "atlponda",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
   "dependencies": {
-    "jquery": "^3.2.1",
+    "fittext": "^1.0.1",
+    "flexslider": "^2.7.2",
+    "font-awesome": "^4.7.0",
+    "fontello": "^0.5.0",
+    "jquery": "^3.3.1",
+    "magnific-popup": "^1.1.0",
+    "waypoints": "^4.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
     "react-scripts": "2.1.8"
   },
   "scripts": {
+		"predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "homepage": "https://atlponda.github.io",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
