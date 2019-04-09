@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"ATL PONDA",
+    "name":"The Blaze Coders",
     "image":"",
     "bio":"Bio",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -48,7 +48,7 @@
         "title":"Smart Car Parking",
         "category":"Smartest Car Parking On Earth",
         "image":"smartcar.png",
-        "url":"https://atlponda.github.io/smart-car-parking"
+        "url":"https://theblazecoders.github.io/smart-car-parking"
       }
     ]
   },
