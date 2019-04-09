@@ -2,45 +2,8 @@
   "main": {
     "name":"The Blaze Coders",
     "image":"",
-    "bio":"Bio",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"",
-        "className":"fa fa-skype"
-      }
-    ]
+    "bio":"",
+    "description" : "Innovation, Team Work, Wonders"
   },
   "project":{
     "projects": [
@@ -48,14 +11,20 @@
         "title":"Smart Car Parking",
         "category":"Smartest Car Parking On Earth",
         "image":"smartcar.png",
-        "url":"https://theblazecoders.github.io/smart-car-parking"
+        "url":"https://github.com/theblazecoders/smart-car-parking"
+      },
+      {
+        "title":"Smart Car Parking App",
+        "category":"A Flutter app for the smart car parking project",
+        "image":"flutter.jpg",
+        "url":"https://github.com/theblazecoders/smart-car-parking-app"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Some thing about us!",
+        "text":"something about us",
         "user":"Author"
       }
     ]
