@@ -1,4 +1,5 @@
 # ATL Ponda Website
+[![Gitter](https://badges.gitter.im/atl-ponda/website.svg)](https://gitter.im/atl-ponda/website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 https://atlponda.github.io
 
 ****
