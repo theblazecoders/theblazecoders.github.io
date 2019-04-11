@@ -1,4 +1,5 @@
-# The Blaze Coders Website
+[![Gitter](https://badges.gitter.im/the-blaze-coders/website.svg)](https://gitter.im/the-blaze-coders/website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+## The Blaze Coders Website
 https://theblazecoders.github.io
 
 ****
