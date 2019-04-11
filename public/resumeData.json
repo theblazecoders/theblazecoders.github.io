@@ -1,7 +1,6 @@
 {
   "main": {
     "name":"The Blaze Coders",
-    "image":"",
     "bio":"",
     "description" : "Innovation, Team Work, Wonders"
   },
@@ -18,6 +17,12 @@
         "category":"A Flutter app for the smart car parking project",
         "image":"flutter.jpg",
         "url":"https://github.com/theblazecoders/smart-car-parking-app"
+      },
+      {
+        "title": "Passport Generator",
+        "category":"Generates the password with certain inputs",
+        "image":"passwordgen.png",
+        "url":"https://github.com/theblazecoders/password-generator"
       }
     ]
   },
