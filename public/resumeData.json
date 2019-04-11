@@ -1,6 +1,7 @@
 {
   "main": {
     "name":"The Blaze Coders",
+    "image":"",
     "bio":"",
     "description" : "Innovation, Team Work, Wonders"
   },
@@ -19,8 +20,8 @@
         "url":"https://github.com/theblazecoders/smart-car-parking-app"
       },
       {
-        "title": "Passport Generator",
-        "category":"Generates the password with certain inputs",
+        "title":"Password Generator",
+        "category":"A unique password generator",
         "image":"passwordgen.png",
         "url":"https://github.com/theblazecoders/password-generator"
       }
