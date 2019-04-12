@@ -23,7 +23,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://atlponda.github.io",
+  "homepage": "https://theblazecoders.github.io",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   },

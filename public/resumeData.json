@@ -18,6 +18,12 @@
         "category":"A Flutter app for the smart car parking project",
         "image":"flutter.jpg",
         "url":"https://github.com/theblazecoders/smart-car-parking-app"
+      },
+      {
+        "title":"Password Generator",
+        "category":"A unique password generator",
+        "image":"passwordgen.png",
+        "url":"https://github.com/theblazecoders/password-generator"
       }
     ]
   },
