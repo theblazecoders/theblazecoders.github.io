@@ -6,13 +6,12 @@
     "flexslider": "^2.7.2",
     "font-awesome": "^4.7.0",
     "fontello": "^0.5.0",
-    "jquery": "^3.4.0",
     "magnific-popup": "^1.1.0",
-    "waypoints": "^4.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "waypoints": "^4.0.1"
   },
   "scripts": {
     "setup": "npm i",
