@@ -1,12 +1,10 @@
 import React, { Component } from 'react';
 import ReactGA from 'react-ga';
-import $ from 'jquery';
-import './App.css';
-import Header from './Components/Header';
-import Footer from './Components/Footer';
-import About from './Components/About';
-import Testimonials from './Components/Testimonials';
-import Project from './Components/Project';
+import Header from './Components/Header/Header';
+import Footer from './Components/Footer/Footer';
+import About from './Components/About/About';
+import Testimonials from './Components/Testimonials/Testimonials';
+import Project from './Components/Project/Project';
 import Info from './info.js';
 
 class App extends Component {
