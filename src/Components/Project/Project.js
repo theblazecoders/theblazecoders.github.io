@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Project.scss'
 
 class Project extends Component {
   render() {
@@ -34,7 +35,7 @@ class Project extends Component {
 
          <div className="twelve columns collapsed">
 
-            <h1>Check Out Some of Our Works.</h1>
+            <h1>Our Open Source Projects</h1>
 
             <div id="project-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
