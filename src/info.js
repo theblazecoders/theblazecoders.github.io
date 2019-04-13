@@ -9,19 +9,19 @@ const Info = {
     projects: [
       {
         title: 'Smart Car Parking',
-        category: 'Smartest Car Parking On Earth',
+        category: 'Smartest Car Parking on the Planet',
         image: 'smartcar.png',
         url: "https://github.com/theblazecoders/smart-car-parking"
       },
       {
         title: 'Smart Car Parking App',
-        category: 'A Flutter app for the smart car parking project',
+        category: 'A Flutter App for the Smart Car Parking Project',
         image: 'flutter.jpg',
         url: 'https://github.com/theblazecoders/smart-car-parking-app'
       },
       {
         title: 'Password Generator',
-        category: 'A unique password generator',
+        category: 'A Unique Password Generator',
         image: 'passwordgen.png',
         url: 'https://theblazecoders.github.io/password-generator'
       }
@@ -30,7 +30,7 @@ const Info = {
   testimonials: {
     testimonials: [
       {
-        text: 'something about us',
+        text: 'About Us',
         user: 'The Blaze Coders'
       }
     ]
