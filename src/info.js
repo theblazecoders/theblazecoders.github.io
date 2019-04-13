@@ -1,4 +1,4 @@
-export default Info = {
+const Info = {
   main: {
     name:'The Blaze Coders',
     image: '',
@@ -23,7 +23,7 @@ export default Info = {
         title: 'Password Generator',
         category: 'A unique password generator',
         image: 'passwordgen.png',
-        url: 'https://github.com/theblazecoders/password-generator'
+        url: 'https://theblazecoders.github.io/password-generator'
       }
     ]
   },
@@ -36,3 +36,5 @@ export default Info = {
     ]
   }
 }
+
+export default Info;

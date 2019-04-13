@@ -8,12 +8,12 @@ class Footer extends Component {
      <div className="row">
         <div className="twelve columns">
            <ul className="copyright">
-              <li>&copy; Copyright 2019 </li>
-              <li>Design by <a href="https://harshithpabbati.github.io">Harshith Pabbati</a></li>
+              <li>&copy; Copyright {new Date().getFullYear()} The Blaze Coders</li> {/* Add A Better Copyright (not full copyright)*/}
+              <li>Design by <a href="https://github.com/theblazecoders">The Blaze Coders</a></li>
            </ul>
 
         </div>
-        <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
+        {/* <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div> */ /* Add later*/}
      </div>
   </footer>
     );
