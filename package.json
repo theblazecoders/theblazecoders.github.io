@@ -9,7 +9,7 @@
     "react-dom": "^16.2.0",
     "react-fittext": "^1.0.0",
     "react-ga": "^2.3.5",
-    "react-scripts": "2.1.8"
+    "react-scripts": "3.0.0"
   },
   "scripts": {
     "setup": "npm i",
